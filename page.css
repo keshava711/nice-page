@@ -1,0 +1,160 @@
+header{
+    display: flex;
+    background-color:rgb(214, 208, 208);
+   height: 60px;
+    align-items: center;
+    justify-content: space-between;
+
+   
+}
+.l1{
+    font-family:Forte;
+    padding-left: 20px;
+    font-size: 40px;
+    color:gray;
+}
+.svg1{
+    display: flex;
+    float: right;
+    padding-right: 20px;
+}
+section{
+    display: flex;
+    background-color: rgb(34, 32, 32);
+    
+}
+.text{
+    color: white;
+    width: 470px;
+    height: 300px;
+    font-size: 35px;
+    padding-left: 120px;
+    padding-top: 100px;
+    
+}
+.anchor:hover{
+    color: black;
+}
+.color{
+    color:orangered;
+}
+.text2{
+    
+    font-size: 20px;
+    font-weight: lighter;
+}
+.text3{
+    display: flex;
+    border: solid white;
+    width: 120px;
+    height: 35px;
+    font-size: 15px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30%;
+}
+.text3:hover{
+    background-color: white;
+    color: black;
+}
+.bg1{
+    width: 100%;
+    height:900px;
+
+}
+.bg2{
+    display: flex;
+    background-color: orangered;
+    gap: 20px;
+    width: 100%;
+    height: 200px;
+}
+.bg3{
+    display: flex;
+    background-color: gray;
+    width: 100%;
+    height: 700px;
+}
+.icon1{
+    position: relative;
+    background-color: white;
+    width: 270px;
+    height:250px;
+    border-radius: 20px;
+    text-align: center;
+    left: 180px;
+    top: 100px;
+}
+.svg0{
+    color: orangered;
+}
+.text4{
+    color: orangered;
+}
+.text4:hover{
+    color: black;
+}
+.text5{
+    display: flex;
+    padding-top: 200px;
+    padding-left: 170px;
+    width: 600px;
+}
+.pr{
+    font-weight: 1000;
+    font-size: 20px;
+    font-style: italic;
+}
+.pr2{
+    width: 450px;
+}
+.svg2{
+    color: black;
+    padding: 20px;
+}
+.form{
+    position: relative;
+    bottom: 300px;
+    left: 700px;
+}
+.box{
+    width: 200px;
+    height: 40px;
+}
+form{
+    display: flex;
+    column-gap: 20px;
+}
+button{
+    width: 440px;
+    height: 45px;
+    border-radius:40px;
+    background-color: orangered;
+    color: white;
+    font-size: 20px;
+    border: solid black;
+}
+.bb:hover{
+    background-color: black;
+    color: white;
+
+}
+footer{
+    display: flex;
+    background-color: rgb(27, 24, 24); 
+    width: 100%;
+    height: 200px; 
+  align-items: center;
+  justify-content: center;
+}
+.pr3{
+    text-align: center;
+    color: white;
+    
+}
+span{
+    color: white;
+}
+.aa{
+    color: orange;
+}
